@@ -22,7 +22,6 @@ google_analytics: "UA-77844-16"
 markdown: kramdown
 #theme: minima
 gems:
-  - jekyll-feed
   - jekyll-paginate
 exclude:
   - Gemfile

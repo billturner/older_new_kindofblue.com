@@ -37,3 +37,8 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
