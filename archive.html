@@ -1,0 +1,27 @@
+---
+layout: page
+title: Archive
+permalink: /archive.html
+---
+<h3>Tags used in posts</h3>
+<section>
+  {% tag_list %}
+</section>
+
+<h3>All posts</h3>
+<section>
+  <div>
+    {% for post in site.posts %}
+      <p>
+        <a href="{{ post.url }}" title="{{ post.title | escape }}" rel="bookmark">{{ post.title }}</a> &mdash;
+        {{ post.date | date: "%Y-%m-%d" }}
+      </p>
+      {% if post.description.size > 0 %}
+        <blockquote>
+          {{ post.description }}
+        </blockquote>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</section>

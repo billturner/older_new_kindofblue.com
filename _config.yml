@@ -5,13 +5,13 @@ description: "The weblog of Pittsburgh-based Ruby & Javascript developer Bill Tu
 baseurl: ""
 url: "http://kindofblue.com"
 
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 destination: _deploy
 encoding: "utf-8"
 markdown_ext: "markdown,md"
 timezone: "America/New_York"
 
-paginate: 1
+paginate: 5
 paginate_path: "/page:num/"
 
 twitter_username: billturner
@@ -20,10 +20,10 @@ google_analytics: "UA-77844-16"
 
 # Build settings
 markdown: kramdown
-#theme: minima
+
 gems:
   - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
-  - now.md
+  - nginx.conf
