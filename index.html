@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Bill Turner's weblog
+title: The weblog of Bill Turner
 ---
 {% for post in paginator.posts %}
 
   {% include index_post.html %}
 
   {% unless forloop.last %}
-    <div class="post-separator">~</div>
+    <div class="post-separator">~ ~ ~</div>
   {% endunless %}
 
   {% include pagination_links.html %}
