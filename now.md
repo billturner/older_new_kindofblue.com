@@ -1,10 +1,24 @@
 ---
 layout: page
-title: Now
+title: What I'm doing now
 permalink: /now.html
 ---
-#### CURRENT PROJECTS (I’M WORKING ON):
+A list of items I'm currently doing my best to focus my attention on. This is based on the ["now page"](http://nownownow.com/about "About the now page") idea by [Derek Sivers](https://sivers.org/ "Derek Sivers' website").
 
-#### PROJECTS (I WISH I WAS WORKING ON):
+* [Sketching Prompt Randomizer](http://prompts.kindofblue.com/)
 
-_Last updated: November 27, 2016._
+> A simple creative prompt generator I wrote mainly as an exercise to teach myself [React](https://facebook.github.io/react/ "React homepage") and [Redux](http://redux.js.org/ "Redux documentation site"). It doesn't do a whole lot now, but my plan is to expand it to allow you to specify your own subjects and techniques.
+
+* Beginner Javascript introduction
+
+> I've started writing a simple, beginner Javascript introductory "class" to explain the basics and teach some simple programming concepts. I only have a couple of lessons halfway written so far, but I really want to get started working on it again.
+
+* [The Tools Artists Use](http://thetoolsartistsuse.com/ "The Tools Artists Use homepage")
+
+> This has been on hiatus for almost three years now, but I'm going to start making progress on getting it running again. I don't think I'll stick with the same long-form interview format, but I'll start updating it with something! Unfortunately, there are many technical hurdles to jump to get it functioning properly, like a weblog software update, moving a lot of image files around, and other boring tasks.
+
+* This weblog
+
+> I started this up again with the goal of updating more, but that hasn't really happened yet. I'm hoping a fresh burst of motivation in the new year will get me moving.
+
+_Last updated: December 21, 2016._
