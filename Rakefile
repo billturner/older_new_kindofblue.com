@@ -18,9 +18,9 @@ task :serve do
   sh "bundle exec jekyll serve"
 end
 
-desc "Deploy the site"
-task :serve do
+desc "Build and deploy the site"
+task :deploy do
+  task("build").invoke
   puts "Deploying the site..."
-  task("clear").invoke
   sh "deployblog"
 end

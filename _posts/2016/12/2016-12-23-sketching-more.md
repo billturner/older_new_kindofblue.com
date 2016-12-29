@@ -2,7 +2,7 @@
 layout: post
 title:  "Filling up sketchbooks"
 date:   2016-12-23 20:05:00 -0500
-description: "Filling up some sketchbooks"
+description: "I've spent the last few years making a lot of progress on sketching more often."
 tags:
 - art
 - sketching
