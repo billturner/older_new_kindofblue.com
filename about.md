@@ -19,4 +19,4 @@ I am a father, a husband, a developer, and a Texan living in Pittsburgh, PA. I'm
 
 #### About the name
 
-The name, Kind of Blue, comes from the [Miles Davis jazz album](http://amzn.to/2fBqDIU "Buy this wonderful album, via Amazon.com") of the same name. Other than being named after the album, there is no specific meaning behind the name.
+The name, Kind of Blue, comes from the [Miles Davis jazz album](http://amzn.to/2fBqDIU "Buy this wonderful album, via Amazon.com") of the same name. Other than being named after the album, there is no specific meaning.

@@ -15,7 +15,7 @@ desc "Serve the site locally"
 task :serve do
   puts "Serving the site..."
   task("clear").invoke
-  sh "bundle exec jekyll serve"
+  sh "bundle exec jekyll serve --drafts"
 end
 
 desc "Build and deploy the site"

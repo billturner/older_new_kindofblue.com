@@ -7,7 +7,7 @@ A list of items I'm currently doing my best to focus my attention on. This is ba
 
 * [Sketching Prompt Randomizer](http://prompts.kindofblue.com/)
 
-> A simple creative prompt generator I wrote mainly as an exercise to teach myself [React](https://facebook.github.io/react/ "React homepage") and [Redux](http://redux.js.org/ "Redux documentation site"). It doesn't do a whole lot now, but my plan is to expand it to allow you to specify your own subjects and techniques.
+> A simple creative prompt generator I wrote mainly as an exercise to teach myself [React](https://facebook.github.io/react/ "React homepage") and [Redux](http://redux.js.org/ "Redux documentation site"). It doesn't do a whole lot now, but my plan is to expand it to allow you to specify your own subjects and techniques. Note: it looks a bit better viewing on a phone instead of a desktop.
 
 * Beginner Javascript introduction
 
@@ -17,8 +17,12 @@ A list of items I'm currently doing my best to focus my attention on. This is ba
 
 > This has been on hiatus for almost three years now, but I'm going to start making progress on getting it running again. I don't think I'll stick with the same long-form interview format, but I'll start updating it with something! Unfortunately, there are many technical hurdles to jump to get it functioning properly, like a weblog software update, moving a lot of image files around, and other boring tasks.
 
+* Sketching, and more sketching
+
+> Over the last few years, I've really made a point to put something down in a sketchbook as often as I can. You can keep up with my progress on [Flickr](https://flickr.com/billturner "My Flickr page"), [Instagram](https://instagram.com/billturner "My Instagram page"), and the [#sketching tag](//kindofblue.com/tag/sketching/) here.
+
 * This weblog
 
 > I started this up again with the goal of updating more, but that hasn't really happened yet. I'm hoping a fresh burst of motivation in the new year will get me moving.
 
-_Last updated: December 21, 2016._
+_Last updated: January 2, 2017_
