@@ -4,7 +4,7 @@ title:  "Bringing back an old friend"
 date: 2017-10-30 18:50:00 -0500
 description: "Where I explain that I'm going to try and bring 'Lists of Bests' back from the dead."
 tags:
-- listsofbests
+- lists-of-bests
 - programming
 - projects
 ---
