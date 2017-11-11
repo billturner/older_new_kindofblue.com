@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-SITEMAP: http://kindofblue.com/sitemap.xml
+SITEMAP: https://kindofblue.com/sitemap.xml

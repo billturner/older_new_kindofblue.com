@@ -3,7 +3,7 @@ author: "Bill Turner"
 email: billturner@gmail.com
 description: "The weblog of Pittsburgh-based Ruby & Javascript developer Bill Turner."
 baseurl: ""
-url: "http://kindofblue.com"
+url: "https://kindofblue.com"
 
 permalink: /:year/:month/:title/
 destination: _deploy
