@@ -1,14 +1,11 @@
 ---
 layout: default
 title: The weblog of Bill Turner
+pagination:
+  enabled: true
 ---
-{% for post in paginator.posts %}
 
-  {% include index_post.html %}
-
-  {% unless forloop.last %}
-    <div class="post-separator">~ ~ ~</div>
-  {% endunless %}
-
-{% endfor %}
-{% include pagination_links.html %}
+{% for post in paginator.posts %} {% include index_post.html %} {% unless
+forloop.last %}
+<div class="post-separator">~ ~ ~</div>
+{% endunless %} {% endfor %} {% include pagination_links.html %}

@@ -4,7 +4,7 @@ title: About
 permalink: /about.html
 ---
 
-I am a father, a husband, a developer, and a Texan living in Pittsburgh, PA. I'm currently employed as a software engineer by the nice folks at [Arcadia](https://arcadia.io/).
+Hi! I'm Bill Turner. I'm a father, husband, developer, and Texan living in Pittsburgh, PA. I'm currently employed as a full-stack developer by the fine folks at [Arcadia](https://arcadia.io/ 'Arcadia home page').
 
 #### Contact
 
@@ -17,7 +17,6 @@ I am a father, a husband, a developer, and a Texan living in Pittsburgh, PA. I'm
 - [Flickr](https://flickr.com/billturner) - basically same as above
 - [Pinboard](http://pinboard.in/u:billturner) - mainly tech links
 - [Github](https://github.com/billturner) - open source code
-  <!-- * [Mlkshk](http://mlkshk.com/user/billturner) - interesting images -->
 
 #### About the name
 
