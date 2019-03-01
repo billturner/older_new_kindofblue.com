@@ -10,7 +10,7 @@ tags:
   - python
 ---
 
-When I initially thought about [how I'd rebuild Lists of Bests]({site.url}/2017/11/how-ill-build-the-new-lists-of-bests/ 'The earlier post on rebuilding Lists of Bests'), I had in mind to use some technologies that were somewhat new to me, so I'd have a chance to learn along the way. Well, since that post those _new_ technologies aren't all that new to me anymore. At my new(-ish) position at [Arcadia](https://arcadia.io/ 'The Arcadia home page'), I've been writing quite a bit of React along with Ruby on Rails (and its API capabilities). So, there isn't that much of a need to learn those tools from scratch.
+When I initially thought about [how I'd rebuild Lists of Bests]({{site.url}}/2017/11/how-ill-build-the-new-lists-of-bests/ 'The earlier post on rebuilding Lists of Bests'), I had in mind to use some technologies that were somewhat new to me, so I'd have a chance to learn along the way. Well, since that post those _new_ technologies aren't all that new to me anymore. At my new(-ish) position at [Arcadia](https://arcadia.io/ 'The Arcadia home page'), I've been writing quite a bit of React along with Ruby on Rails (and its API capabilities). So, there isn't that much of a need to learn those tools from scratch.
 
 So, what to use instead? Well, I'm thinking it may be Python and the latest version of Angular (I still work some in AngularJS 1.x, but not at all with any version greater than 1.6). Why these? Well, I think the primary goal of getting the app up and running again was to use the process as a learning opportunity. If I'm using familiar technologies that I've used before, or currently during my day job, then it won't be as much of a learning experience.
 
