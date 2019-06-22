@@ -5,14 +5,16 @@
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              {{ site.author | escape }}
+            {{ site.author | escape }}
             {% else %}
-              {{ site.title | escape }}
+            {{ site.title | escape }}
             {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+          </li>
+          {% if site.email %}
+          <li>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
@@ -21,6 +23,10 @@
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %} {% if site.mastodon_username %}
+          <li>
+            {% include icon-mastodon.html username=site.mastodon_username %}
           </li>
           {% endif %}
         </ul>

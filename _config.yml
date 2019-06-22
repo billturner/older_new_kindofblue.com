@@ -19,6 +19,8 @@ pagination:
   sort_reverse: true
 
 twitter_username: billturner
+mastodon_instance: 'https://mastodon.social'
+mastodon_username: billturner
 github_username: billturner
 google_analytics: 'UA-77844-16'
 
